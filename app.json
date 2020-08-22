@@ -1,0 +1,8 @@
+{
+  "name": "gd-utils",
+  "description": "Run gd-utils on Heroku.",
+  "keywords": ["gd-utils"],
+  "website": "https://github.com/iwestlin/gd-utils/commits/master",
+  "repository": "https://github.com/iwestlin/gd-utils/commits/master",
+  "stack": "container"
+}
